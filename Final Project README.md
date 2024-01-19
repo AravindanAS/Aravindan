@@ -2,6 +2,9 @@
  Credit Card Fraud Detection
 # Credit-Card-Fraud-Detection
 
+![Credit card](https://github.com/AravindanAS/Credit-Card-Fraud-Detection/assets/136828832/7daf1806-f6c6-49e6-bc8a-8d9294512768)
+
+
 Fraud Detection model based on anonymized credit card transactions
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
