@@ -3,9 +3,9 @@
 # Credit-Card-Fraud-Detection
 
 ![Credit card](https://github.com/AravindanAS/Credit-Card-Fraud-Detection/assets/136828832/7daf1806-f6c6-49e6-bc8a-8d9294512768)
+
 A credit card is one of the most used financial products to make online purchases and payments. Though the Credit cards can be a convenient way to manage your finances, they can also be risky. Credit card fraud is the unauthorized use of someone else's credit card or credit card information to make purchases or withdraw cash.
 
-Fraud Detection model based on anonymized credit card transactions
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
